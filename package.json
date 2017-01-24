@@ -1,0 +1,23 @@
+{
+  "name": "bitbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanminutillo/bitbot.git"
+  },
+  "author": "ivanminutillo <bernini@inventati.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanminutillo/bitbot/issues"
+  },
+  "homepage": "https://github.com/ivanminutillo/bitbot#readme"
+}
